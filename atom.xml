@@ -4,7 +4,7 @@
   
   <link href="/blog/atom.xml" rel="self"/>
   <link href="http://lisarao.github.io/"/>
-  <updated>2015-12-16T10:42:33.289Z</updated>
+  <updated>2015-12-17T01:42:02.345Z</updated>
   <id>http://lisarao.github.io/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <link href="http://lisarao.github.io/2020/12/31/hello-world/"/>
     <id>http://lisarao.github.io/2020/12/31/hello-world/</id>
     <published>2020-12-30T16:00:00.000Z</published>
-    <updated>2015-12-16T10:42:33.289Z</updated>
-    <content type="html"><![CDATA[<!-- endcontent --><div class="figure figure--fullWidth"><img class="figure-img" src="/assets/images/background.jpg" alt=" A beautiful sunrise"><span class="caption"> A beautiful sunrise</span></div><!-- content -->
+    <updated>2015-12-17T01:42:02.345Z</updated>
+    <content type="html"><![CDATA[<!-- endcontent --><div class="figure figure--fullWidth"><img class="figure-img" src="/blog/assets/images/background.jpg" alt=" A beautiful sunrise"><span class="caption"> A beautiful sunrise</span></div><!-- content -->
 <p>由于旧博客用<code>airpub.io</code>，多说的账号被<code>CSRF</code>攻击造成大部分博文被注入删除</p>
 <p>说多了都是泪<del>~~(&gt;_&lt;)</del>~~</p>
 <p>已经决定了新博客用<code>hexo</code></p>
@@ -39,7 +39,7 @@
 <p>终于搞定了，在一个周末的下午。</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<!-- endcontent --><div class="figure figure--fullWidth"><img class="figure-img" src="/assets/images/background.jpg" alt=" A beautiful sunri]]>
+    <![CDATA[<!-- endcontent --><div class="figure figure--fullWidth"><img class="figure-img" src="/blog/assets/images/background.jpg" alt=" A beautiful ]]>
     </summary>
     
       <category term="杂谈" scheme="http://lisarao.github.io/tags/%E6%9D%82%E8%B0%88/"/>

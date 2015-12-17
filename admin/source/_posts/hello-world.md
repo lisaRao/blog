@@ -5,7 +5,7 @@ tags:
 categories: 杂谈
 ---
 
-{% wide_image /assets/images/background.jpg  "A beautiful sunrise" %}
+{% wide_image /blog/assets/images/background.jpg  "A beautiful sunrise" %}
 
 由于旧博客用`airpub.io`，多说的账号被`CSRF`攻击造成大部分博文被注入删除
 
