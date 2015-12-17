@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[lisa's Blog]]></title>
   
-  <link href="/atom.xml" rel="self"/>
-  <link href="http://lisarao.github.io/blog/"/>
+  <link href="/blog/atom.xml" rel="self"/>
+  <link href="http://lisarao.github.io/"/>
   <updated>2015-12-16T10:42:33.289Z</updated>
-  <id>http://lisarao.github.io/blog/</id>
+  <id>http://lisarao.github.io/</id>
   
   <author>
     <name><![CDATA[lisaRao]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://lisarao.github.io/blog/2020/12/31/hello-world/"/>
-    <id>http://lisarao.github.io/blog/2020/12/31/hello-world/</id>
+    <link href="http://lisarao.github.io/2020/12/31/hello-world/"/>
+    <id>http://lisarao.github.io/2020/12/31/hello-world/</id>
     <published>2020-12-30T16:00:00.000Z</published>
     <updated>2015-12-16T10:42:33.289Z</updated>
     <content type="html"><![CDATA[<!-- endcontent --><div class="figure figure--fullWidth"><img class="figure-img" src="/assets/images/background.jpg" alt=" A beautiful sunrise"><span class="caption"> A beautiful sunrise</span></div><!-- content -->
@@ -42,16 +42,16 @@
     <![CDATA[<!-- endcontent --><div class="figure figure--fullWidth"><img class="figure-img" src="/assets/images/background.jpg" alt=" A beautiful sunri]]>
     </summary>
     
-      <category term="杂谈" scheme="http://lisarao.github.io/blog/tags/%E6%9D%82%E8%B0%88/"/>
+      <category term="杂谈" scheme="http://lisarao.github.io/tags/%E6%9D%82%E8%B0%88/"/>
     
-      <category term="杂谈" scheme="http://lisarao.github.io/blog/categories/%E6%9D%82%E8%B0%88/"/>
+      <category term="杂谈" scheme="http://lisarao.github.io/categories/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[echo]]></title>
-    <link href="http://lisarao.github.io/blog/2015/12/16/echo/"/>
-    <id>http://lisarao.github.io/blog/2015/12/16/echo/</id>
+    <link href="http://lisarao.github.io/2015/12/16/echo/"/>
+    <id>http://lisarao.github.io/2015/12/16/echo/</id>
     <published>2015-12-16T10:42:33.288Z</published>
     <updated>2015-12-16T10:42:33.288Z</updated>
     <content type="html"><![CDATA[<blockquote>
@@ -89,9 +89,9 @@
     
     </summary>
     
-      <category term="-前端构建 -gulp" scheme="http://lisarao.github.io/blog/tags/%E5%89%8D%E7%AB%AF%E6%9E%84%E5%BB%BA-gulp/"/>
+      <category term="-前端构建 -gulp" scheme="http://lisarao.github.io/tags/%E5%89%8D%E7%AB%AF%E6%9E%84%E5%BB%BA-gulp/"/>
     
-      <category term="前端构建" scheme="http://lisarao.github.io/blog/categories/%E5%89%8D%E7%AB%AF%E6%9E%84%E5%BB%BA/"/>
+      <category term="前端构建" scheme="http://lisarao.github.io/categories/%E5%89%8D%E7%AB%AF%E6%9E%84%E5%BB%BA/"/>
     
   </entry>
   
